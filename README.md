@@ -159,11 +159,6 @@ Optimizing vector search and retrieval times as the dataset grows in size and co
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR 
 ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
-| Name            | Contribution %                       |
-|------------------|-------------------------------------|
-| Shubham Agarwal  | 35 %                             |
-| Chinmay Sawant   | 35 %                             |
-| Pranav Sonje     | 30 %                             |
 
 **Documentation files Team_9** 
 
